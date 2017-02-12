@@ -1,0 +1,51 @@
+html {
+  font: 16px/26px 'Open Sans', Helvetica, Helvetica Neue, Arial;
+  background-color: #00b3e6;
+  color: #2b4d66;
+  padding-bottom: 200px; }
+
+
+  
+#springs{
+  position: absolute;
+  overflow-x: hidden;
+  top: 100px;
+  height: 500px;
+}
+#wheel{position: absolute;top:0;left:20px;}
+#wheel1{position: relative;left:11em;top:-9em;}
+ #lvrs{position:relative;top:-10px;height: 150px;}
+
+.refresh{
+position: absolute;
+top:0;
+right: 0;
+padding: 8px;
+font-size: 24px;
+background: #ffdd30;
+color: #00b3e6;
+font-weight: normal;
+
+
+}
+ button{
+    width: 250px;
+    height: 40px;
+   background: #ffdd30;
+    color: #00b3e6;
+    border: none;
+    font-weight: bold;
+  }
+
+#header {
+  max-width: 500px;
+  padding-top: 15px;
+  margin: 0 auto;
+  text-align: center; }
+ 
+  #header img {
+    max-width: 100%;
+    display: block; }
+
+
+
